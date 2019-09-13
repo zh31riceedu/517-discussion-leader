@@ -23,5 +23,10 @@ Paper Title:
 
 ## Cons (3-6 bullets)
 
+### What is your analysis of the proposed?
+
+Summarize and justify what your evluation of the paper is. 
+
 ## Details Comments, Observations, Questions
+
 
