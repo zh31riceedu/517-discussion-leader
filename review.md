@@ -69,3 +69,5 @@ Compare VM and hardware approach of secure logging, Intrusion prevention and det
 Is putting every feature of secure logging in VMM a good idea?
 
 What level of portability do we need?
+
+https://docs.google.com/presentation/d/18AfxrwLjk59qoTxsSIRxsxNiR4opkL59bkQn6qj9j2w/edit?usp=sharing
