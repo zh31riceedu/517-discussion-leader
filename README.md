@@ -44,10 +44,28 @@ Develop 5-7 questions after reviewing the online discussion
 and lead an initial 15 minute small group and a larger 15
 minute discussion.
 
+How well can other virtualization approaches work on these three areas?
+
+Others use cases of VM?
+
+Compare VM and hardware approach of secure logging, Intrusion prevention and detection
+
+Is putting every feature of secure logging in VMM a good idea?
+
+What level of portability do we need?
+
 ## Discussion Debrief (%25)
 
 Answer the following questions: 
 
 1. What new insights came out of the discussion?
+
+We discussed how well other virtualization approaches work on security and portability and rated them against VMM.
+
 2. Was there disagreement? Why? 
+
+We realized that the objects to protect are different for secure logging and intrusion prevention and detection, when we were auguing how well other virtualization approaches work.
+
 3. What was the consensus about the work?
+
+VMM works best on security and portability. 
